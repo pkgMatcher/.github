@@ -1,4 +1,3 @@
-<h1 align=center>pkgMatcher</h1>
 
 Visit [pkgMatcher.dev](https://pkgmatcher.dev) for information.
 
